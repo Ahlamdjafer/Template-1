@@ -1,0 +1,60 @@
+/*Contact section */
+.contact{
+    background: #fff;
+    margin-top: 100px;
+ 
+ }
+ .section-title{
+    padding-top: 60px;
+ }
+ .contact-content{
+     overflow: hidden;
+ 
+ }
+ 
+ .contact-item {
+     width: 30%;
+     float: left;
+     background: #fff;
+     text-align: center;
+ }
+ .contact-item.mg{
+     margin: 0 5%;
+ }
+ .contact-info i {
+     color: #6195ff;
+     margin-bottom: 10px;
+    
+     
+     
+ }
+ .contact-desc {
+     color: #999;
+     margin: 10px 0;
+ }
+ 
+ form{
+     text-align: center;
+ }
+ 
+ input{
+     background-color:#f8f8f8;
+     width: 600px;
+     height: 40px;
+     margin-bottom: 20px;
+     font-size: 18px;
+     font-family: monospace;
+    
+ }
+ .contact-button {
+     align-items: center;
+     background: #7ba7ff;
+     color: #fff;
+     width: 150px;
+     height: 40px;
+     font-size: 17px;
+     border-radius: 5px;
+     border: 0;
+     cursor: pointer;
+ }
+ 
